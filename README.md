@@ -4,3 +4,4 @@ In the house price.csv file, each house price with their following atribute is g
 In order to find the best MLP model, we change some of the parameters such as: 
 1. Number of layers
 2. Number of each layers' neuron 
+3. Activation function for each layer
